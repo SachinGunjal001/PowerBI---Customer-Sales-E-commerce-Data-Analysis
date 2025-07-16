@@ -6,8 +6,11 @@ This Power BI project provides an end-to-end analysis of customer sales data acr
 
 **Tools & Technologies**
 Power BI Desktop
+
 DAX (for measures, KPIs, rolling totals)
+
 Power Query (for ETL and data transformation)
+
 Excel/CSV Source Data
 
 
